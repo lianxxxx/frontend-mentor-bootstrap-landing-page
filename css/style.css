@@ -1,0 +1,36 @@
+
+*{
+  font-family: 'Public Sans', sans-serif!important;
+}
+
+.navbar-toggler:focus {
+  outline: none;      
+  box-shadow: none;  
+}
+
+
+#navbarMenu{
+ z-index: 9999;
+box-shadow: 0 8px 30px 15px rgba(0, 0, 0, 0.228);
+
+}
+
+#image-mockups {
+  top: 20%;
+  left: 50%;
+  position: absolute;
+  z-index: 1; 
+}
+
+#nextGenerationText{
+margin-top: -55px;
+}
+
+#requestInviteBtn{
+  background: linear-gradient(180deg, hsl(136, 65%, 51%), hsl(192, 70%, 51%));
+  font-size: 14px;
+}
+
+#aboutDigitalBank{
+  background-color:  hsl(220, 16%, 96%);
+}
